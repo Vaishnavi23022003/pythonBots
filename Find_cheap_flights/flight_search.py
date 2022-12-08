@@ -3,9 +3,9 @@ import datetime as dt
 from dateutil.relativedelta import relativedelta
 
 TEQUILA_URL = "https://tequila-api.kiwi.com"
-TEQUILA_KEY = "sAY3I2JVyQJoyuPDTAq1Iy79pgA7a6Em"
+TEQUILA_KEY = "00000000000000"
 TEQUILA_HEADER = {
-    "apikey": "sAY3I2JVyQJoyuPDTAq1Iy79pgA7a6Em"
+    "apikey": "00000000000000000000000"
 }
 
 today=dt.datetime.now()
