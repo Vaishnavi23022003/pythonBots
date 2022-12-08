@@ -3,7 +3,7 @@ import time
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 
-chrome_driver_path = "C:\VAAB-progm\Chrome driver\chromedriver.exe"
+chrome_driver_path = "C:\Chrome driver\chromedriver.exe"
 
 
 class InstaFollower:
