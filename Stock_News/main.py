@@ -6,13 +6,13 @@ STOCK = "TSLA"
 COMPANY_NAME = "Tesla Inc"
 
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
-STOCK_API_KEY = "HS9K2ELB2HB0G27I"
+STOCK_API_KEY = "====================="
 
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
-NEWS_API_KEY = "e1ec30a3e26445af83f0f271c9e71350"
+NEWS_API_KEY = "========================"
 
-ACC_SID="ACd9d5a47d57620d8c41946422429f271f"
-AUTH_TOKEN="04b8ed9891543693de69576b48495fd0"
+ACC_SID="======================"
+AUTH_TOKEN="================================="
 
 
 NEWS_MSSG = ""
@@ -58,8 +58,8 @@ def send_mssg():
     message = client.messages \
         .create(
         body=NEWS_MSSG,
-        from_='+15612793820',
-        to='+916395895736'
+        from_='+000000000',
+        to='+00000000000000'
     )
     print(message.status)
 
