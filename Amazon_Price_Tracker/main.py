@@ -22,9 +22,9 @@ if low_cost>price:
     with smtplib.SMTP("smtp.gmail.com") as connection:
         connection.starttls()
 
-        my_mail = "killuak722@gmail.com"
-        password = "killu@9652killua"
-        mail="vaishnavibadony@gmail.com"
+        my_mail = "mymail@mail.com"
+        password = "password"
+        mail="reciever@mail.com"
 
         mssg=f"The current price of {product} is Rs {price}. \n\nBuy Now at : {product_url}"
 
