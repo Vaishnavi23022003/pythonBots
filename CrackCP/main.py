@@ -3,19 +3,19 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 import time
 
-handle = ['C-_-Devil_Code', 'infinito_', 'Sizzlk', 'Mystic_AN', 'G.O.K.U_Instinct', 'Code_with_guitar', 'fake_name', 'sharma2908', '_AbRn_', 'Palak137', 'hope_09', 'beastslayer123', 'RKansujia', 'Rockrun', 'Sehrawat_27', '_007CodeSpine', 'jhonsnow456', 'Arkenite03', 'rahul11134', 'ninja-nick-s', 'code-fox', 'RDX_2.O', 'RKansujia', 'Deepak_23', 'kumaraayush33548@gmail.com', 'Gopu_GPS', '_Np_nG', 'null_pointer_1', 'Decoder_j', '_hecxoc', 'Dense-Eclipse', '_Stack_2.0_', '_bagga', 'sashae', 'TheHavoc', 'bheron_4407', 'enlightrahulrm333', '_Cheeku', 'i_arushi_r', 'A_after_B', 'cnarte', 'devilbro', 'Night_Fury007', 'shivam_2310', '_hagemaru', 'Brainic', 'irshad2001', 'ajaysinghrr77', 'ducut', 'pinocchio_007', 'raviii_36', 'Arry_23', 'Py21Coder_J_V', '__J.HIND__', 'kevin_debruyne', 'I_Am_Vengeance4699', '__Brahmastra__']
+handle = []
 
-chrome_driver_path = "C:\VAAB-progm\chromedriver_win32\chromedriver.exe"
+chrome_driver_path = "C:\chromedriver_win32\chromedriver.exe"
 
 driver = webdriver.Chrome(executable_path=chrome_driver_path)
 
 driver.get("https://codeforces.com/")
 
-log_in_1="termi.9929@gmail.com"
-pass_1="L8R3?+n//T-Sp%d"
+log_in_1="==========="
+pass_1="=============="
 
-log_in_2="termi9.929@gmail.com"
-pass_2=",$XTE8_p5ajmSWb"
+log_in_2="==============="
+pass_2="====================b"
 
 time.sleep(2)
 
