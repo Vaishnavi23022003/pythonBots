@@ -7,12 +7,12 @@ app = Flask(__name__)
 @app.route("/")
 def index_pg():
     return render_template("index.html",
-                           blogs=requests.get("https://api.npoint.io/cf444618280ba105de77").json()["blogs"])
+                           blogs=requests.get("https://api.npoint.io/=============").json()["blogs"])
 
 
 @app.route("/post/<int:id>")
 def post_pg(id):
-    blogs = requests.get("https://api.npoint.io/cf444618280ba105de77").json()["blogs"]
+    blogs = requests.get("https://api.npoint.io/=========================").json()["blogs"]
 
     for i in blogs:
         if i["id"] == id:
@@ -30,8 +30,8 @@ def contact_pg():
         with smtplib.SMTP("smtp.gmail.com") as connection:
             connection.starttls()
 
-            my_mail = "killuak722@gmail.com"
-            password = "killu@9652killua"
+            my_mail = "====================="
+            password = "==============="
 
             connection.login(user=my_mail, password=password)
             connection.sendmail(from_addr=my_mail, to_addrs=my_mail, msg=mssg)
