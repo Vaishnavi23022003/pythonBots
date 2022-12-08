@@ -1,0 +1,1 @@
+file=open("lala.txt","w")

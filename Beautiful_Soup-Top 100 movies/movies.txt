@@ -1,0 +1,97 @@
+1) The Empire Strikes Back
+2) The Dark Knight
+3) The Shawshank Redemption
+4) Pulp Fiction
+5) Goodfellas
+6) Raiders Of The Lost Ark
+7) Jaws
+8) Star Wars
+9) The Fellowship Of The Ring
+10) Back To The Future
+11) The Godfather Part II
+12) Blade Runner
+13) Alien
+14) Aliens
+15) The Return Of The King
+16) Fight Club
+17) Inception
+18) Jurassic Park
+19) Die Hard
+20) 2001: A Space Odyssey
+21) Apocalypse Now
+22) The Two Towers
+23) The Matrix
+24) Terminator 2: Judgment Day
+25) Heat
+26) The Good, The Bad And The Ugly
+27) Casablanca
+28) The Big Lebowski
+29) Seven
+30) Taxi Driver
+31) The Usual Suspects
+32) Schindler's List
+33) Guardians Of The Galaxy
+34) The Shining
+35) The Departed
+36) The Thing
+37) Mad Max: Fury Road
+38) Saving Private Ryan
+39) 12 Angry Men
+40) Eternal Sunshine Of The Spotless Mind
+41) There Will Be Blood
+42) One Flew Over The Cuckoo's Nest
+43) Gladiator
+44) Drive
+45) Citizen Kane
+46) Interstellar
+47) The Silence Of The Lambs
+48) Trainspotting
+49) Lawrence Of Arabia
+50) It's A Wonderful Life
+51) Once Upon A Time In The West
+52) Psycho
+53) Vertigo
+54) Pan's Labyrinth
+55) Reservoir Dogs
+56) Whiplash
+57) Inglourious Basterds
+58) E.T.
+59) American Beauty
+60) Forrest Gump
+61) La La Land
+62) Donnie Darko
+63) LA Confidential
+64) Avengers Assemble
+65) Return Of The Jedi
+66) Memento
+67) Ghostbusters
+68) Singin' In The Rain
+69) The Lion King
+70) Hot Fuzz
+71) Rear Window
+72) Seven Samurai
+73) Mulholland Drive
+74) Fargo
+75) A Clockwork Orange
+76) Toy Story
+77) Oldboy
+78) Captain America: Civil War
+79) The Social Network
+80) Some Like It Hot
+81) True Romance
+82) Rocky
+83) Léon
+84) Indiana Jones And The Last Crusade
+85) Predator
+86) The Exorcist
+87) Shaun Of The Dead
+88) No Country For Old Men
+89) The Prestige
+90) The Terminator
+91) Lost In Translation
+92) Arrival
+93) Good Will Hunting
+94) Titanic
+95) Amelie
+96) Raging Bull
+97) Stand By Me
