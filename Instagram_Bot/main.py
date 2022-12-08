@@ -1,7 +1,7 @@
 from insta_bot import InstaFollower
 
-LOGIN_ID="aayushbadoni_"
-LOGIN_PASS="iamaayush18052005"
+LOGIN_ID="-=============----"
+LOGIN_PASS="==================="
 SIMILAR_ACC="avengers"
 
 bot=InstaFollower(LOGIN_ID,LOGIN_PASS,SIMILAR_ACC)
