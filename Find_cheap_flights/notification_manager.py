@@ -15,8 +15,8 @@ class NotificationManager:
         for user in usr_list:
             with smtplib.SMTP("smtp.gmail.com") as connection:
                 connection.starttls()
-                my_mail = "killuak722@gmail.com"
-                password = "killu@9652killua"
+                my_mail = "====================="
+                password = "====================="
                 connection.login(user=my_mail, password=password)
                 connection.sendmail(from_addr=my_mail, to_addrs=user["email"], msg=mssg)
                 print("Success !!! 🤩")
