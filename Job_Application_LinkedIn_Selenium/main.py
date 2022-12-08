@@ -15,10 +15,10 @@ sign_in.click()
 time.sleep(1)
 
 login=driver.find_element_by_id("username")
-login.send_keys("vaishnavibadony@gmail.com")
+login.send_keys("======================")
 
 login=driver.find_element_by_id("password")
-login.send_keys("internshipthenjob")
+login.send_keys("========================")
 
 login.send_keys(Keys.ENTER)
 
@@ -40,7 +40,7 @@ for job in apply_jobs:
 
         number = driver.find_element_by_name(
             "urn:li:fs_easyApplyFormElement:(urn:li:fs_normalized_jobPosting:2671770733,32056523,phoneNumber~nationalNumber)")
-        number.send_keys("6395895736")
+        number.send_keys("===================")
 
         apply = driver.find_element_by_xpath('//*[@aria-label="Continue to next step"]')
         apply.click()
