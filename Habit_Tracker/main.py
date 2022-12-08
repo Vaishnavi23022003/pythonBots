@@ -16,8 +16,8 @@ quantity = [0, 0, 0, 0, 0]
 
 def show_graph():
     pixela_endpoint = "https://pixe.la/v1/users"
-    USR_NAME = "killua"
-    TOKEN = "sdfnjfsnsmfn2121"
+    USR_NAME = "==========="
+    TOKEN = "====================1"
     graph_endpoint = f"{pixela_endpoint}/{USR_NAME}/graphs"
 
     headers = {
